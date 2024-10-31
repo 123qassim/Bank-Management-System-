@@ -119,7 +119,7 @@ def main():
         BankAccount("Charles Otaha", "12345678", "Otaha@03", balance=1000.0, savings_balance=300.0, loan_limit=5000.0),
         SavingsAccount("Cynthia Njeri", "87654321", "Njeri@03", balance=2000.0, savings_balance=1500.0,
                        loan_limit=7000.0),
-        CheckingAccount("Qassim Juma", "13579111", "Juma@03", balance=500.0, savings_balance=250.0, loan_limit=3000.0)
+        CheckingAccount("Qassim Juma", "11223344", "Juma@03", balance=500.0, savings_balance=250.0, loan_limit=3000.0)
     ]
 
     account_number = input("Please enter your account number: ")
